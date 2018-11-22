@@ -375,13 +375,13 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": false,
+            "slides__autoplay": true,
             "slides__autoplayInterval": 4000,
             "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/ece1b891-afbf-4bc6-9c72-25e5a873dcd1-1365x2048.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -466,7 +466,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/fb0e4b6e-843e-44b3-b6cb-cd9844b8a69c-1-2000x1368.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
