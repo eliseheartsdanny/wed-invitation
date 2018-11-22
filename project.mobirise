@@ -1797,7 +1797,7 @@
         }
       ]
     },
-    "page4.html": {
+    "page.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "포토갤러리",
@@ -2508,7 +2508,7 @@
         }
       ]
     },
-    "page3.html": {
+    "page4.html": {
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "연락하기",
