@@ -1,0 +1,2 @@
+# wed-invitation
+GitHub Pages
